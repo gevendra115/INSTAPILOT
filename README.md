@@ -1,21 +1,4 @@
-<p align="center">
-  <a href="https://pypi.org/project/instagrapi/"><img src="https://img.shields.io/badge/Made_With-Instagrapi-yellowgreen?style=for-the-badge&logo=Pypi&logoColor=yellow" alt="Made With - Instagrapi"></a>
-  <a href="https://python.org" title="Go to Python homepage"><img src="https://img.shields.io/badge/Python-%3E=3.6-yellowgreen?logo=python&logoColor=green" alt="Made with Python"></a>
-  <a href="#license"><img src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
-</p>
 
-# InstaPilot
-Powerful Python Tool To Control Instagram From Terminal 
-
-<img href="https://github.com/TnYtCoder/InstaPilot" src="https://github.com/TnYtCoder/InstaPilot/assets/115485810/ca0e0f39-caa7-41e9-9ac8-3b7170cfd541">
-
-Made With Instagrapi ❤️
-
-![instagrapi](https://github.com/TnYtCoder/InstaPilot/assets/115485810/80c742b2-c071-4234-b177-c3d875c32bc3)
-
-I've attempted to add many features to it, but due to exams, I am currently unable to do so. However, once my exams are over, I will continue adding more features. In the meantime, please enjoy the existing features.
-
-![img](https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif)
 
 ## Warning ⚠️
 
@@ -109,22 +92,10 @@ It Will Automatically Install All The Requirements 👻
 ## Support
 If you've found our work valuable and would like to support its ongoing development and maintenance, your contribution is greatly appreciated. Your support helps us continue improving and adding new features.
 
-<p align="center">
-<img href="support"src="https://github.com/TnYtCoder/InstaFans/assets/115485810/2cea8bf1-a9ad-4535-a24d-92ec2d926de6" height="50%" width="50%">
-<b>cfmer.22610002142001@icici</b>
-</p>
-
-## Connect With Me On -
-
-<a href="https://instagram.com/tnytcoder?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://bit.ly/TnYtCoder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-[![  - Join Now](https://img.shields.io/badge/_-Join_Now-black?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/zWHxMa32)
 
 ## Star This Repository ⭐
 If you appreciate our efforts and the hard work we've put into this project, your star means the world to us.
 
-<a href="https://github.com/TnYtCoder/InstaPilot"><img src="https://img.shields.io/github/stars/TnYtCoder/InstaPilot?style=social" alt="stars - InstaPilot"></a>
-<a href="https://github.com/TnYtCoder/InstaPilot"><img src="https://img.shields.io/github/forks/TnYtCoder/InstaPilot?style=social" alt="forks - InstaPilot"></a>
 
 ## Thanks You !
 Goodbye and thank you for your support. Stay connected!
